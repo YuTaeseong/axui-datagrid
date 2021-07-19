@@ -3,7 +3,7 @@
 
 # axui-datagrid
 
-!!demo : http://axui-datagrid.jsdev.kr
+!demo : http://axui-datagrid.jsdev.kr
 
 # Install
 
