@@ -3,21 +3,21 @@
 
 # axui-datagrid
 
-demo : http://axui-datagrid.jsdev.kr
+!!demo : http://axui-datagrid.jsdev.kr
 
 # Install
 
 ```bash
-npm install axui-datagrid
+!npm install axui-datagrid
 ```
 
 # Run
 
 ```bash
-git clone https://github.com/jsdevkr/axui-datagrid.git
+!git clone https://github.com/jsdevkr/axui-datagrid.git
 cd axui-datagrid
 npm i
-npm start
+!npm start
 ```
 
 # Features
